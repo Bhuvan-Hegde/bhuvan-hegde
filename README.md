@@ -1,5 +1,4 @@
-### Hi there 👋
-
+As a motivated B.E. Information Science and Engineering student at RRCE Bengaluru, I am passionate about leveraging my skills and knowledge in technology to contribute effectively in the IT industry. With a strong foundation in academics and a focus on problem solving, clean coding practices, I am ready to tackle challenges and drive impactful projects forward in a dynamic and innovative environment
 <!--
 **Bhuvan-Hegde/bhuvan-hegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
